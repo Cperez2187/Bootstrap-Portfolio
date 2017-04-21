@@ -1,0 +1,16 @@
+.navbar-default {
+	background-color: #fff;
+	border-color: #ccc;
+}
+
+.navbar-static-top {
+	border-width: 0 0 2px;
+}
+
+#name {
+	color: #fff;
+	background-color: #4aaaa5;
+	height: 90px;
+	line-height: 55px;
+	font-size: 30px;
+}
